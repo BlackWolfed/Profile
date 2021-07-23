@@ -1,6 +1,6 @@
-### Hi there, I'm Mostafa Tamam - @Blackwolf [root-x][website] 👋
+### Hi there, I'm Mostafa Tamam - @Blackwolf [Root-x][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://root-x.dev/)](https://root-x.dev/)
+[![Website](https://img.shields.io/website?label=root-x.dev&style=for-the-badge&url=https://root-x.dev/)](https://root-x.dev/)
 
 ## I'm a Red Team analyst || Python Developer || Bug Hunter!!
 
