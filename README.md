@@ -1,7 +1,6 @@
 ### Hi there, I'm Mostafa Tamam - @Blackwolf [root-x][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://root-x.dev/)](https://root-x.dev/)
-[![Linkedin Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/mostafa-bn-tamam-96308216a/)
 
 ## I'm a Red Team analyst || Python Developer || Bug Hunter!!
 
